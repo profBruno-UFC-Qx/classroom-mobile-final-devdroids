@@ -3,28 +3,37 @@
 # Proposta de aplicativo
 
 ## Equipe
-* **Nome do Aluno(a) 1:** [Seu nome e matrícula]
-* **Nome do Aluno(a) 2:** [Seu nome e matrícula]
-* **Nome do Aluno(a) 3:** [Seu nome e matrícula]
-* ...
+* **Carlos Jeferson Jacinto da Silva - 552568**
+* **João Italo Maia Alves - 554701**
+
 
 ---
 
 ## Título do Projeto
-[Escolha um título criativo e descritivo para o seu projeto.]
+**EcoTracker – Rastreador de Hábitos Sustentáveis**
 
 ## Descrição do Projeto
-[Descreva em 2-3 parágrafos o que o seu projeto faz. Qual é o problema que ele resolve? Quem é o público-alvo? Quais são as principais funcionalidades?]
+O EcoTracker é um aplicativo mobile que ajuda os usuários a adotarem e acompanharem hábitos sustentáveis no dia a dia, como economizar água, reciclar ou usar transporte público. O app transforma essas pequenas ações em dados visuais de impacto positivo, permitindo que cada pessoa veja como suas escolhas contribuem para o meio ambiente. Ele busca resolver o problema da falta de conscientização e engajamento em relação à sustentabilidade, tornando o processo mais didático, motivador e recompensador.
+
+O público-alvo do EcoTracker são pessoas interessadas em adotar um estilo de vida mais sustentável, incluindo estudantes, jovens profissionais e cidadãos preocupados com questões ambientais, mas que ainda não têm uma forma prática de mensurar seus esforços ecológicos.
 
 ---
 
 ## Funcionalidades Principais
-[Liste as principais funcionalidades do projeto. Use caixas de seleção para que a equipe possa marcar as concluídas nas próximas etapas.]
 
-- [ ] Funcionalidade 1: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 2: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 3: [Breve descrição da funcionalidade]
-- [ ] ...
+ [ ]Funcionalidade 1: Cadastro, edição e exclusão de hábitos sustentáveis (CRUD), permitindo que o usuário personalize suas ações ecológicas.
+
+ [ ]Funcionalidade 2: Armazenamento local de dados com Room, garantindo acesso offline e segurança das informações.
+
+ [ ]Funcionalidade 3: Integração com API externa para exibir dicas ecológicas diárias, incentivando boas práticas ambientais.
+
+ [ ]Funcionalidade 4: Uso de GPS para estimar o impacto coletivo das ações sustentáveis na cidade ou região.
+
+ [ ]Funcionalidade 5: Design moderno com MaterialTheme, incluindo modo escuro e claro automático.
+
+ [ ]Funcionalidade 6: Gamificação com uma árvore virtual que cresce conforme o usuário cumpre metas sustentáveis.
+
+ [ ]Funcionalidade 7: Arquitetura MVVM com Jetpack Compose, garantindo melhor desempenho e organização do código.
 
 ---
 
